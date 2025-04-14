@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samir, an <a href="https://linkedin.com/in/Samir Williams">IT Professional</a>☺</h1>
+<h1>Hi, I'm Samir, an <a href="linkedin.com/in/samir-williams-158b411ab>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
